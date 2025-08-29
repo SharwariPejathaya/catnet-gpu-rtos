@@ -1,0 +1,5 @@
+# Ignore ESP build output
+pawRTOS/build/
+
+# Ignore Python virtual environment
+laptop_cam_integration/venv/
